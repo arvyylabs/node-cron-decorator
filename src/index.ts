@@ -4,6 +4,7 @@ import { MetadataArgsStorage } from "./metadata-builder/MetadataArgsStorage";
 
 export * from "./container";
 export * from "./decorators/Schedule";
+export * from "./type/IScheduledTask";
 
 function importClassesFromDirectories(directories: string[], formats = [".js", ".ts"]): Function[] {
     const loadFileClasses = function(exported: any, allLoaded: Function[]) {
