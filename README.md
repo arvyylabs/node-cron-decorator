@@ -2,10 +2,10 @@
 
 ## Table of Content
 
-1. [Installation](#1-installation) 💻
-2. [Usage](#2-usage) ⌨️
-3. [Bugs and Features](#3-bugs-and-features) 🐞💡
-4. [License](#5-license) 📃
+1. [Installation](#1-installation) 
+2. [Usage](#2-usage)
+3. [Bugs and Features](#3-bugs-and-features)
+4. [License](#5-license)
 
 ## 1. Installation
 
