@@ -4,8 +4,7 @@
 
 1. [Installation](#1-installation) 
 2. [Usage](#2-usage)
-3. [Bugs and Features](#3-bugs-and-features)
-4. [License](#5-license)
+3. [License](#5-license)
 
 ## 1. Installation
 
@@ -23,11 +22,7 @@ $ yarn add node-cron-decorator
 
 // TODO
 
-## 3. Bugs and Features
-
-Please open a issue when you encounter any bugs 🐞 or if you have an idea for a additional feature 💡.
-
-## 5. License
+## 3. License
 
 MIT License
 
