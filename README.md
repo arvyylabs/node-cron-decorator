@@ -10,7 +10,7 @@
 ## 1. Installation
 
 ```bash
-$ npm install node-cron-**decoratorb**
+$ npm install node-cron-decorator
 ```
 
 OR
